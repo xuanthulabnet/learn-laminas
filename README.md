@@ -1,6 +1,3 @@
-# learn-laminas
-Sử dụng Laminas
-
-Repo chứa các mã nguồn hướng dẫn sử dụng Laminas
-
-https://xuanthulab.net/laminas/
+Tải về và chạy
+```composer update```
+Hướng dẫn: https://xuanthulab.net/cai-dat-laminas-skeleton-chuong-trinh-khung-mvc-laminas.html
